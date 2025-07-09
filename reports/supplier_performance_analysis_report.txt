@@ -1,0 +1,89 @@
+SUPPLIER PERFORMANCE ANALYSIS REPORT
+============================================================
+Generated: 2025-07-08 21:55:46
+Analysis Period: Full dataset period
+Total Suppliers Analyzed: 5
+Total Procurement Value: $45,373,696.39
+
+EXECUTIVE SUMMARY:
+----------------------------------------
+Average Supplier Performance Score: 60.0/100
+Top 5 Supplier Concentration: 100.0%
+Critical Risk Suppliers: 0
+Strategic Partners Identified: 1
+
+PERFORMANCE TIER DISTRIBUTION:
+----------------------------------------
+  Good: 2 suppliers (40.0%)
+  Poor: 1 suppliers (20.0%)
+  Average: 1 suppliers (20.0%)
+  Excellent: 1 suppliers (20.0%)
+
+RISK ASSESSMENT SUMMARY:
+----------------------------------------
+  Medium Risk: 4 suppliers (80.0%)
+  Low Risk: 1 suppliers (20.0%)
+  High Risk: 0 suppliers (0.0%)
+  Critical Risk: 0 suppliers (0.0%)
+
+TOP 10 PERFORMING SUPPLIERS:
+----------------------------------------
+  Alpha_Inc:
+    Overall Score: 83.0/100
+    Spend Share: 17.28%
+    Classification: Strategic Partner
+    Risk Level: Low Risk
+
+  Gamma_Co:
+    Overall Score: 69.2/100
+    Spend Share: 18.93%
+    Classification: Key Supplier
+    Risk Level: Medium Risk
+
+  Epsilon_Group:
+    Overall Score: 66.8/100
+    Spend Share: 21.71%
+    Classification: Key Supplier
+    Risk Level: Medium Risk
+
+  Beta_Supplies:
+    Overall Score: 43.6/100
+    Spend Share: 21.73%
+    Classification: High Risk Supplier
+    Risk Level: Medium Risk
+
+  Delta_Logistics:
+    Overall Score: 37.4/100
+    Spend Share: 20.36%
+    Classification: High Risk Supplier
+    Risk Level: Medium Risk
+
+
+STRATEGIC RECOMMENDATIONS:
+----------------------------------------
+
+IMMEDIATE ACTIONS:
+  1. Initiate performance improvement plans for strategic suppliers representing 82.7% of spend
+  2. Launch cost optimization initiatives with potential $29,343 in additional savings
+
+STRATEGIC INITIATIVES:
+  1. Develop strategic partnerships with top-performing, high-spend suppliers
+  2. Diversify supplier base - top 5 suppliers represent 100.0% of spend
+
+PERFORMANCE IMPROVEMENT:
+  1. Launch quality improvement programs with 4 suppliers
+  2. Overall supplier performance below target (60.0/100) - implement comprehensive improvement program
+
+PORTFOLIO OPTIMIZATION:
+  1. Increase excellent-tier suppliers from 20.0% to 25% of portfolio
+
+DEVELOPMENT OPPORTUNITIES SUMMARY:
+----------------------------------------
+  High Potential: 0 suppliers
+  Underperforming Strategic: 4 suppliers
+  Cost Optimization: 2 suppliers
+  Quality Improvement: 4 suppliers
+  Delivery Improvement: 0 suppliers
+  New Supplier Evaluation: 0 suppliers
+
+Total Cost Optimization Opportunity: $29,343

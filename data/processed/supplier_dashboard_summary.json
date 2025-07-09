@@ -1,0 +1,47 @@
+{
+  "analysis_date": "2025-07-08",
+  "total_suppliers": 5,
+  "avg_performance_score": 60.0,
+  "top_5_concentration": 100.01,
+  "strategic_partners": "1",
+  "critical_risk_suppliers": "0",
+  "performance_tiers": {
+    "Good": 2,
+    "Poor": 1,
+    "Average": 1,
+    "Excellent": 1
+  },
+  "risk_levels": {
+    "Medium Risk": 4,
+    "Low Risk": 1,
+    "High Risk": 0,
+    "Critical Risk": 0
+  },
+  "top_10_suppliers": {
+    "Alpha_Inc": {
+      "overall_supplier_score": 83.0,
+      "spend_share": 17.28,
+      "strategic_classification": "Strategic Partner"
+    },
+    "Gamma_Co": {
+      "overall_supplier_score": 69.2,
+      "spend_share": 18.93,
+      "strategic_classification": "Key Supplier"
+    },
+    "Epsilon_Group": {
+      "overall_supplier_score": 66.8,
+      "spend_share": 21.71,
+      "strategic_classification": "Key Supplier"
+    },
+    "Beta_Supplies": {
+      "overall_supplier_score": 43.6,
+      "spend_share": 21.73,
+      "strategic_classification": "High Risk Supplier"
+    },
+    "Delta_Logistics": {
+      "overall_supplier_score": 37.4,
+      "spend_share": 20.36,
+      "strategic_classification": "High Risk Supplier"
+    }
+  }
+}

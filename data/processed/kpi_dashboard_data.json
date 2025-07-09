@@ -1,0 +1,167 @@
+{
+  "kpi_metrics": {
+    "financial": {
+      "total_procurement_spend": 45373696.39,
+      "total_original_spend": 49304822.86,
+      "total_cost_savings": 3931126.4699999993,
+      "overall_savings_rate": 7.97310737970269,
+      "total_orders": 777,
+      "average_order_value": 58396.00564993565,
+      "median_order_value": 46776.36,
+      "negotiation_success_rate": 100.0,
+      "average_savings_per_order": 5059.364826254825,
+      "average_monthly_spend": 1814947.8556000004,
+      "monthly_spend_volatility": 566328.0092470063,
+      "high_value_order_count": 39,
+      "high_value_order_percentage": 5.019305019305019,
+      "high_value_order_savings_rate": 6.705897435897435
+    },
+    "supplier": {
+      "total_suppliers": 5,
+      "average_orders_per_supplier": 155.4,
+      "average_lead_time": 10.776811594202899,
+      "median_lead_time": 11.0,
+      "lead_time_std": 5.729209778096179,
+      "on_time_delivery_rate": 60.74646074646075,
+      "fast_delivery_rate": 29.472329472329474,
+      "excellent_suppliers_pct": 0,
+      "good_suppliers_pct": 18.146718146718147,
+      "poor_suppliers_pct": 63.44916344916345,
+      "top_supplier_concentration": 21.727711613490612,
+      "top_5_supplier_concentration": 100.0,
+      "average_supplier_score": 51.38000000000001,
+      "supplier_score_std": 25.586168138273457
+    },
+    "quality": {
+      "overall_defect_rate": 5.780102960102959,
+      "median_defect_rate": 3.75,
+      "defect_rate_std": 5.270033474697964,
+      "perfect_order_rate": 18.01801801801802,
+      "excellent_quality_pct": 0.7849293563579277,
+      "critical_quality_pct": 28.728414442700156,
+      "compliance_rate": 0.0,
+      "non_compliance_rate": 0.0,
+      "total_defective_units": 47949.0,
+      "defective_units_rate": 5.6374044589918775
+    },
+    "risk": {
+      "average_risk_score": 0.46332046332046334,
+      "high_risk_orders_count": "18",
+      "high_risk_orders_pct": 2.3166023166023164,
+      "low_risk_pct": 55.98455598455598,
+      "critical_risk_pct": 0,
+      "delivery_risk_count": "32",
+      "delivery_risk_pct": 4.1184041184041185,
+      "quality_risk_count": "328",
+      "quality_risk_pct": 42.21364221364222,
+      "compliance_risk_count": "0",
+      "compliance_risk_pct": 0.0,
+      "high_dependency_suppliers": "3",
+      "top_category_concentration": 22.318236479917523,
+      "high_value_high_risk_orders": "1"
+    }
+  },
+  "category_performance": {
+    "MRO": {
+      "Total_Orders": 164,
+      "Total_Spend": 10126608.86,
+      "Avg_Order_Value": 61747.62,
+      "Total_Savings": 902312.31,
+      "Avg_Savings_Per_Order": 5501.9,
+      "Avg_Savings_Rate": 8.21,
+      "Avg_Lead_Time": 11.6,
+      "Avg_Defect_Rate": 5.34,
+      "Supplier_Count": 5,
+      "Spend_Share_Pct": 22.32
+    },
+    "Office Supplies": {
+      "Total_Orders": 174,
+      "Total_Spend": 10007583.03,
+      "Avg_Order_Value": 57514.84,
+      "Total_Savings": 844096.16,
+      "Avg_Savings_Per_Order": 4851.13,
+      "Avg_Savings_Rate": 7.66,
+      "Avg_Lead_Time": 10.41,
+      "Avg_Defect_Rate": 6.39,
+      "Supplier_Count": 5,
+      "Spend_Share_Pct": 22.06
+    },
+    "Electronics": {
+      "Total_Orders": 152,
+      "Total_Spend": 8642550.6,
+      "Avg_Order_Value": 56858.89,
+      "Total_Savings": 742876.23,
+      "Avg_Savings_Per_Order": 4887.34,
+      "Avg_Savings_Rate": 7.72,
+      "Avg_Lead_Time": 11.02,
+      "Avg_Defect_Rate": 5.81,
+      "Supplier_Count": 5,
+      "Spend_Share_Pct": 19.05
+    },
+    "Raw Materials": {
+      "Total_Orders": 139,
+      "Total_Spend": 8471241.42,
+      "Avg_Order_Value": 60944.18,
+      "Total_Savings": 709097.25,
+      "Avg_Savings_Per_Order": 5101.42,
+      "Avg_Savings_Rate": 7.84,
+      "Avg_Lead_Time": 10.34,
+      "Avg_Defect_Rate": 6.27,
+      "Supplier_Count": 5,
+      "Spend_Share_Pct": 18.67
+    },
+    "Packaging": {
+      "Total_Orders": 148,
+      "Total_Spend": 8125712.48,
+      "Avg_Order_Value": 54903.46,
+      "Total_Savings": 732744.52,
+      "Avg_Savings_Per_Order": 4950.98,
+      "Avg_Savings_Rate": 8.44,
+      "Avg_Lead_Time": 10.41,
+      "Avg_Defect_Rate": 5.05,
+      "Supplier_Count": 5,
+      "Spend_Share_Pct": 17.91
+    }
+  },
+  "executive_summary": {
+    "analysis_date": "2025-07-09",
+    "data_period": "2022-01-01 to 2024-01-01",
+    "total_records": 777,
+    "financial": {
+      "total_spend": 45373696.39,
+      "total_savings": 3931126.4699999993,
+      "savings_rate": 7.97310737970269,
+      "negotiation_success_rate": 100.0,
+      "avg_order_value": 58396.00564993565
+    },
+    "supplier": {
+      "total_suppliers": 5,
+      "avg_lead_time": 10.776811594202899,
+      "on_time_delivery_rate": 60.74646074646075,
+      "top_supplier_concentration": 21.727711613490612
+    },
+    "quality": {
+      "overall_defect_rate": 5.780102960102959,
+      "defective_units_rate": 5.6374044589918775,
+      "compliance_rate": 0.0,
+      "perfect_order_rate": 18.01801801801802
+    },
+    "risk": {
+      "high_dependency_suppliers": "3",
+      "top_category_concentration": 22.318236479917523,
+      "high_risk_orders_pct": 2.3166023166023164
+    }
+  },
+  "insights": [
+    "GOOD negotiation performance with 8.0% overall savings rate",
+    "MODERATE RISK: Top supplier concentration at 21.7%",
+    "QUALITY CONCERN: High defect rate of 5.78%",
+    "GOOD delivery performance with 10.8 day average lead time",
+    "BEST PERFORMER: Packaging achieves 8.4% savings rate"
+  ],
+  "recommendations": [
+    "Explore advanced negotiation training to improve savings rate above 10%",
+    "Monitor supplier dependency and develop backup options",
+    "URGENT: Launch comprehensive quality improvement initiative"
+  ]
+}

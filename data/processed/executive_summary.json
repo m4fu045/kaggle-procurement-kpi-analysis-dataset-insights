@@ -1,0 +1,43 @@
+{
+  "report_date": "2025-07-09T16:27:07.512863",
+  "executive_summary": {
+    "financial": {
+      "total_spend": 45373696.39,
+      "monthly_avg": 1814947.8556000004,
+      "avg_order_value": 58396.00564993565,
+      "total_orders": 777,
+      "total_savings": 3532097.885303
+    },
+    "performance": {
+      "avg_lead_time": 10.776811594202899,
+      "on_time_delivery": 60.74646074646075,
+      "defect_rate": 5.780102960102959,
+      "quality_score": 94.21989703989703
+    }
+  },
+  "strategic_opportunities": {
+    "cost_optimization": [
+      "Process automation: $680,605 potential"
+    ],
+    "risk_areas": [
+      "Overall risk profile: LOW"
+    ]
+  },
+  "recommendations": {
+    "potential_savings": 3629895.7112000003,
+    "investment_required": 300000,
+    "roi_percentage": 746.9756659466666,
+    "immediate_actions": [
+      "Implement supplier performance scorecards",
+      "Establish monthly spend review meetings",
+      "Launch negotiation training program",
+      "Create category management strategy"
+    ],
+    "strategic_initiatives": [
+      "Deploy demand forecasting system",
+      "Implement automated approval workflows",
+      "Establish supplier development programs",
+      "Create procurement analytics platform"
+    ]
+  }
+}

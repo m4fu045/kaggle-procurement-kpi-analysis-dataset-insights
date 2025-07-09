@@ -1,0 +1,29 @@
+{
+  "analysis_date": "2025-07-09",
+  "data_period": "2022-01-01 to 2024-01-01",
+  "total_records": 777,
+  "financial": {
+    "total_spend": 45373696.39,
+    "total_savings": 3931126.4699999993,
+    "savings_rate": 7.97310737970269,
+    "negotiation_success_rate": 100.0,
+    "avg_order_value": 58396.00564993565
+  },
+  "supplier": {
+    "total_suppliers": 5,
+    "avg_lead_time": 10.776811594202899,
+    "on_time_delivery_rate": 60.74646074646075,
+    "top_supplier_concentration": 21.727711613490612
+  },
+  "quality": {
+    "overall_defect_rate": 5.780102960102959,
+    "defective_units_rate": 5.6374044589918775,
+    "compliance_rate": 0.0,
+    "perfect_order_rate": 18.01801801801802
+  },
+  "risk": {
+    "high_dependency_suppliers": "3",
+    "top_category_concentration": 22.318236479917523,
+    "high_risk_orders_pct": 2.3166023166023164
+  }
+}

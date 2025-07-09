@@ -1,0 +1,85 @@
+{
+  "high_potential": {},
+  "underperforming_strategic": {
+    "Beta_Supplies": {
+      "spend_share": 21.73,
+      "overall_supplier_score": 43.6,
+      "performance_tier": "Average",
+      "cost_performance_score": 40.0,
+      "delivery_performance_score": 32.0,
+      "quality_performance_score": 40.0
+    },
+    "Epsilon_Group": {
+      "spend_share": 21.71,
+      "overall_supplier_score": 66.8,
+      "performance_tier": "Good",
+      "cost_performance_score": 80.0,
+      "delivery_performance_score": 40.0,
+      "quality_performance_score": 80.0
+    },
+    "Delta_Logistics": {
+      "spend_share": 20.36,
+      "overall_supplier_score": 37.4,
+      "performance_tier": "Poor",
+      "cost_performance_score": 20.0,
+      "delivery_performance_score": 48.0,
+      "quality_performance_score": 20.0
+    },
+    "Gamma_Co": {
+      "spend_share": 18.93,
+      "overall_supplier_score": 69.2,
+      "performance_tier": "Good",
+      "cost_performance_score": 60.0,
+      "delivery_performance_score": 100.0,
+      "quality_performance_score": 60.0
+    }
+  },
+  "cost_optimization": {
+    "Beta_Supplies": {
+      "total_spend": 9858665.9,
+      "avg_savings_rate": 7.83,
+      "potential_additional_savings": 14196.0,
+      "spend_share": 21.73,
+      "overall_supplier_score": 43.6
+    },
+    "Delta_Logistics": {
+      "total_spend": 9236240.47,
+      "avg_savings_rate": 7.81,
+      "potential_additional_savings": 15147.0,
+      "spend_share": 20.36,
+      "overall_supplier_score": 37.4
+    }
+  },
+  "quality_improvement": {
+    "Delta_Logistics": {
+      "avg_defect_rate": 10.87,
+      "total_defective_units": 19678.0,
+      "spend_share": 20.36,
+      "quality_performance_score": 20.0,
+      "overall_supplier_score": 37.4
+    },
+    "Beta_Supplies": {
+      "avg_defect_rate": 8.27,
+      "total_defective_units": 13838.0,
+      "spend_share": 21.73,
+      "quality_performance_score": 40.0,
+      "overall_supplier_score": 43.6
+    },
+    "Gamma_Co": {
+      "avg_defect_rate": 4.5,
+      "total_defective_units": 7034.0,
+      "spend_share": 18.93,
+      "quality_performance_score": 60.0,
+      "overall_supplier_score": 69.2
+    },
+    "Epsilon_Group": {
+      "avg_defect_rate": 2.61,
+      "total_defective_units": 4682.0,
+      "spend_share": 21.71,
+      "quality_performance_score": 80.0,
+      "overall_supplier_score": 66.8
+    }
+  },
+  "delivery_improvement": {},
+  "new_supplier_evaluation": {}
+}

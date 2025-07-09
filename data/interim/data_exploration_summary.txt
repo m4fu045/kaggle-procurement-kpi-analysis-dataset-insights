@@ -1,0 +1,7 @@
+PROCUREMENT DATA EXPLORATION SUMMARY
+==================================================
+Analysis Date: 2025-07-08 15:10
+Dataset Shape: 777 rows × 18 columns
+Data Quality: 223 missing values
+Total Savings: $3,931,126.47
+Average Defect Rate: 7.01%

@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "analysis_date": "2025-07-09T16:01:29.949003",
+    "total_categories": 0,
+    "forecast_periods": 6,
+    "best_method": "Simple Average"
+  },
+  "forecasts": {},
+  "category_insights": {},
+  "business_impact": {
+    "overall": {
+      "annual_spend": 21779374.267200004,
+      "monthly_avg": 1814947.8556000004,
+      "volatility": 0.31203541605870816,
+      "potential_savings_range": [
+        435587.4853440001,
+        1088968.7133600002
+      ],
+      "working_capital_reduction": [
+        22686.848195000006,
+        68060.54458500001
+      ]
+    }
+  }
+}

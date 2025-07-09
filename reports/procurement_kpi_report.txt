@@ -1,0 +1,74 @@
+PROCUREMENT KPI ANALYSIS REPORT
+============================================================
+Generated: 2025-07-09 07:58:27
+Analysis Period: 2022-01-01 to 2024-01-01
+Total Records: 777
+
+FINANCIAL PERFORMANCE SUMMARY:
+----------------------------------------
+  Total Spend: $45,373,696.39
+  Total Savings: $3,931,126.47
+  Savings Rate: 7.97%
+  Negotiation Success Rate: 100.00%
+  Avg Order Value: $58,396.01
+
+SUPPLIER PERFORMANCE SUMMARY:
+----------------------------------------
+  Total Suppliers: 5
+  Avg Lead Time: 10.8 days
+  On Time Delivery Rate: 60.7%
+  Top Supplier Concentration: 21.7%
+
+QUALITY PERFORMANCE SUMMARY:
+----------------------------------------
+  Overall Defect Rate: 5.78%
+  Defective Units Rate: 5.64%
+  Compliance Rate: 0.00%
+  Perfect Order Rate: 18.02%
+
+STRATEGIC INSIGHTS:
+----------------------------------------
+  1. GOOD negotiation performance with 8.0% overall savings rate
+  2. MODERATE RISK: Top supplier concentration at 21.7%
+  3. QUALITY CONCERN: High defect rate of 5.78%
+  4. GOOD delivery performance with 10.8 day average lead time
+  5. BEST PERFORMER: Packaging achieves 8.4% savings rate
+
+STRATEGIC RECOMMENDATIONS:
+----------------------------------------
+  1. Explore advanced negotiation training to improve savings rate above 10%
+  2. Monitor supplier dependency and develop backup options
+  3. URGENT: Launch comprehensive quality improvement initiative
+
+TOP 10 CATEGORIES BY PERFORMANCE:
+----------------------------------------
+  MRO:
+    Total Spend: $10,126,609 (22.3%)
+    Avg Savings Rate: 8.2%
+    Avg Lead Time: 11.6 days
+    Avg Defect Rate: 5.34%
+
+  Office Supplies:
+    Total Spend: $10,007,583 (22.1%)
+    Avg Savings Rate: 7.7%
+    Avg Lead Time: 10.4 days
+    Avg Defect Rate: 6.39%
+
+  Electronics:
+    Total Spend: $8,642,551 (19.1%)
+    Avg Savings Rate: 7.7%
+    Avg Lead Time: 11.0 days
+    Avg Defect Rate: 5.81%
+
+  Raw Materials:
+    Total Spend: $8,471,241 (18.7%)
+    Avg Savings Rate: 7.8%
+    Avg Lead Time: 10.3 days
+    Avg Defect Rate: 6.27%
+
+  Packaging:
+    Total Spend: $8,125,712 (17.9%)
+    Avg Savings Rate: 8.4%
+    Avg Lead Time: 10.4 days
+    Avg Defect Rate: 5.05%
+

@@ -1,0 +1,6 @@
+Item_Category,Total_Orders,Total_Spend,Avg_Order_Value,Total_Savings,Avg_Savings_Per_Order,Avg_Savings_Rate,Avg_Lead_Time,Avg_Defect_Rate,Supplier_Count,Spend_Share_Pct
+MRO,164,10126608.86,61747.62,902312.31,5501.9,8.21,11.6,5.34,5,22.32
+Office Supplies,174,10007583.03,57514.84,844096.16,4851.13,7.66,10.41,6.39,5,22.06
+Electronics,152,8642550.6,56858.89,742876.23,4887.34,7.72,11.02,5.81,5,19.05
+Raw Materials,139,8471241.42,60944.18,709097.25,5101.42,7.84,10.34,6.27,5,18.67
+Packaging,148,8125712.48,54903.46,732744.52,4950.98,8.44,10.41,5.05,5,17.91

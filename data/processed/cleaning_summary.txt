@@ -1,0 +1,21 @@
+PROCUREMENT DATA CLEANING SUMMARY
+==================================================
+Cleaning Date: 2025-07-08 15:25:50
+Original Dataset: 777 rows x 11 columns
+Final Dataset: 777 rows x 19 columns
+Records Retained: 100.00%
+Missing Values Handled: 49
+Business Rule Violations: 1
+
+Rule Violations:
+  - Rule 3 Violation: 1 records with delivery date before order date
+
+New Columns Added:
+  - cost_savings
+  - data_quality_score
+  - defect_rate
+  - lead_time_days
+  - quality_score
+  - savings_percentage
+  - total_negotiated_value
+  - total_original_value
